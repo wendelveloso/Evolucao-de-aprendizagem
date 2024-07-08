@@ -16,6 +16,8 @@ Know/Learned)_
 |---|---|---|
 | - Conceitos de CSS e HTML, manipulação dos containers com FlexBox, utilização de formulários e responsividade da página web <br> - Conceitos e utilização do Figma e Penpot | - React  <br> - Typescript no front-end <br> - Bootstrap <br> - Sass <br> - DOM | - Propriedades avançadas de Media Query (ex: screen e print)
 
+> 07 de julho de 2024.
+
 | ``Sei`` | ``Quero Saber`` | ``Aprendi`` |
 |---|---|---|
 | - Conceitos de CSS e HTML, manipulação dos containers com FlexBox, utilização de formulários e responsividade da página web <br> - Conceitos e utilização do Figma e Penpot <br> - Propriedades avançadas de Media Query (ex: screen e print) | - React  <br> - Typescript no front-end <br> - Bootstrap <br> - Sass <br> - DOM | - Utilização da Metodologia BEM (Block Element Modifier) no CSS.
