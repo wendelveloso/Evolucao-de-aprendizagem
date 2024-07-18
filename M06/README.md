@@ -1,8 +1,5 @@
-# Evolucao-de-aprendizagem
 
-_Matriz SQA/KWL (Sei/Quero Saber/Aprendi - Know/Want to
-Know/Learned)_
-
+<br>
 
 > 18 de junho de 2024.
 
